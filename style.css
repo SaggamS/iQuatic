@@ -1,0 +1,20 @@
+svg {
+    font-family: Sans-Serif, Arial;
+}
+.line {
+  stroke-width: 1;
+  fill: none;
+}
+
+.axis path {
+  font-weight: lighter;
+  stroke: #fff;
+}
+
+.text {
+  font-size: 12px;
+}
+
+.title-text {
+  font-size: 12px;
+}
